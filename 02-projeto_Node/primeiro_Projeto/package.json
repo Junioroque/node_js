@@ -1,0 +1,17 @@
+{
+  "name": "1-projeto",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "junio-cezar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "echo \"Testando = OLA MUNDO \" && exit 1"
+  },
+  "keywords": [
+    "project",
+    "minha api"
+  ]
+}
