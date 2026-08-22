@@ -1,4 +1,4 @@
-// setrutura condicional
+// estrutura condicional
 
 // if, else if, else
 
