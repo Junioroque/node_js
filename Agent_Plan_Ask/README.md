@@ -791,7 +791,7 @@ Simplicidade → Segurança → Manutenibilidade → Testabilidade → Escalabil
 
 Não adicionar complexidade sem necessidade real.
 
-## study
+## Modo Study
 
 Prompt (Instructions) — Copiloto “Cortana STUDY”
 
