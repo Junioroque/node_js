@@ -592,7 +592,7 @@ Não tentar apenas resolver o problema.
 
 A resposta deve ajudar o usuário a entender por que a solução funciona.
 
-## plan
+## Modo Plan
 
 Prompt (Instructions) — Copiloto “Cortana PLAN”
 
